@@ -1,0 +1,7 @@
+cmake-*
+.idea
+/build
+# Don't include the large scene
+/assets/*
+/assets/pkg_a_curtains/
+/compile_commands.json
